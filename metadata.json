@@ -1,0 +1,6 @@
+{
+  "name": "FluxQ Decision Intelligence",
+  "description": "Multi-Echelon Industrial Operations & Supply Chain Decision Intelligence Control Tower",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
